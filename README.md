@@ -1,7 +1,7 @@
 # SnakeJS
 **Simple snake game in JavaScript**
 
->To run, save as html and open in browser
+>To run, go to: https://wani0n.github.io/SnakeJS/
 
 **features:**
 >-new game starts instantly, controls with arrows
